@@ -10,6 +10,7 @@ npm intall
 *********
 
 Also we want to build the build:
+*********
 npm run build
 
 
